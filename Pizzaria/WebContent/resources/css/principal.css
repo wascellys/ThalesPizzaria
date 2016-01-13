@@ -1,0 +1,38 @@
+.ui-button {  
+	margin-right: 1px;
+	margin-left: 0px;
+	margin-top: 0px;
+	
+}
+.ui-widget {  
+    font-size: 12px !important;
+	font-family:;
+}
+.ui-datatable-data{
+	font-size: 16px;
+}
+
+.ui-toolbar{
+	font-size: 14px;
+	padding: 4px;
+	
+}
+
+.mesas{
+	background-image: url("../imagens/mesa2.png")!important;
+	size: 20px; 
+}
+
+#btn{
+	background-image: url("../imagens/mesa2.png");
+	size: 20px;
+	padding: 20px;	
+}
+
+#tabinicial{
+	background-color: "#5E0202";
+}
+
+#ul{
+	background-color: "#5E0202";
+}

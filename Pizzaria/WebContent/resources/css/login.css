@@ -1,0 +1,48 @@
+head{
+	
+}
+
+body{
+	font-size: 18px;
+	font-family : Arial, Helvetica, sans-serif;
+	margin: 8px;
+	background: #400000;
+	graphicImage: resources/imagens/thales.png;
+}
+
+
+h1{
+	
+	font-size: 20px;
+	color: #ffffff;
+	letter-spacing: 0px;
+	margin: 0px;
+	padding: 5px;
+}
+
+
+.form-grid{
+	background-color: #ffffff;	
+	border: 1px solid #ffffff;
+	margin-top: 0px;
+	color: #400000;
+	padding: 20px;
+	
+}
+
+#content{
+	width: 350px;
+	margin-left: auto; 	
+	margin-top: 100px;	
+}
+
+.ui-button {  
+	margin-top:10px;
+	width: 100%; 
+	background: #0000a0;
+	border-radius: 0px;
+}
+
+.ui-inputfield {
+	border-radius: 0px;
+}
