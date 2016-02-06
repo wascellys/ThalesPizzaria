@@ -1,0 +1,13 @@
+{
+  "name": "ThalesPizzaria",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
